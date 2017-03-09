@@ -1,0 +1,2 @@
+[utils]
+utils_1    ansible_host=utils.vagrant.eatsleeplim.com ansible_user=vagrant ansible_ssh_private_key_file=.vagrant/machines/default/virtualbox/private_key
